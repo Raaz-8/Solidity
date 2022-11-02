@@ -1,1 +1,1 @@
-# LP2_Program
+# Solidity
